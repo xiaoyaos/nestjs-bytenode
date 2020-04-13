@@ -23,7 +23,7 @@ npm install --save nestjs-bytenode
 ### 你只需要在你的nestjs项目根目录下添加一个js文件，内容如下
 usage
 ```
-const nestJsByteNode = require('nestjs-bytebode');
+const nestJsByteNode = require('nestjs-bytenode');
 const path = require('path');
 
 nestJsByteNode.compileMain(__dirname, './dist', {nodeModulesPack: true});
