@@ -37,4 +37,4 @@ name | type |  Description
 rootDir | string | 项目根目录 |
 originDir | string | nest build目录 |
 options | object |  |
-options.nodeModulesPack | bool | 是否复制nodu_modules目录到bytenode-run |
+options.nodeModulesPack | bool | 是否复制nodu_modules目录到bytenode-run, default:false |
