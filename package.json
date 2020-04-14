@@ -1,6 +1,6 @@
 {
   "name": "nestjs-bytenode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bytenode": "^1.1.6"
+    "bytenode": "^1.1.6",
+    "mkdirp": "^1.0.4"
   }
 }
